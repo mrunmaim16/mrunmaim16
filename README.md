@@ -3,9 +3,6 @@
 🎓 **Education:**  
 I am a recent graduate with a Master of Science in Computer Science from the University of Texas at Arlington and hold a Bachelor of Engineering in Computer Engineering with Honors in Data Science from Pune University, India. My academic journey provided a strong technical foundation, with a focus on machine learning, data mining, cloud computing, and big data.  
 
-💻 **Technical Skills:**  
-I’m skilled in Python, Java, C++, R, and SQL, with experience in databases like Microsoft SQL Server, PostgreSQL, and MongoDB. I excel in tools such as Power BI and Tableau, and am proficient with frameworks like Scikit-learn, Flask, and Spring Boot. My cloud expertise spans AWS and Azure services. I’m passionate about leveraging data and technology to solve complex problems and drive impactful decisions. Continuously exploring new tools and methodologies, I aim to expand my expertise in data engineering, machine learning, and analytics.
-
 ---
 
 🛠 **Tech Stack:**  
@@ -24,6 +21,11 @@ I’m skilled in Python, Java, C++, R, and SQL, with experience in databases lik
 I currently work as a **Data Analyst** at the University of Texas at Arlington, where I analyze support tickets using tools like Power BI, Jira, and Oracle Analytics Cloud to enhance services for the UTA community. I lead efforts to create dashboards and optimize workflows, driving significant improvements in operational efficiency and response times.  
 Previously, I was a **Business Intelligence Analyst** at Etech Global Services, where I developed real-time dashboards using Tableau and Python for sentiment analysis, improving customer satisfaction. My work also included building ETL pipelines with tools like Apache Kafka and AWS Redshift, automating data processing tasks.  
 As a **Software Developer** at R3 Systems, I implemented secure payment gateways using Java and Spring Boot, while building APIs and dynamic interfaces with React.js and Redux.  
+
+---
+
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
