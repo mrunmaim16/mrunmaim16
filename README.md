@@ -24,10 +24,6 @@ As a **Software Developer** at R3 Systems, I implemented secure payment gateways
 
 ---
 
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
 
 📬 **Contact Me:**  
 - **Email:** [mrunmaimagar@gmail.com](mailto:mrunmaimagar@gmail.com)  
