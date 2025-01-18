@@ -5,6 +5,7 @@ I am a recent graduate with a Master of Science in Computer Science from the Uni
 
 💻 **Technical Skills:**  
 I’m skilled in Python, Java, C++, R, and SQL, with experience in databases like Microsoft SQL Server, PostgreSQL, and MongoDB. I excel in tools such as Power BI and Tableau, and am proficient with frameworks like Scikit-learn, Flask, and Spring Boot. My cloud expertise spans AWS and Azure services. I’m passionate about leveraging data and technology to solve complex problems and drive impactful decisions. Continuously exploring new tools and methodologies, I aim to expand my expertise in data engineering, machine learning, and analytics.
+
 ---
 
 🛠 **Tech Stack:**  
