@@ -22,6 +22,11 @@ Previously, I was a **Business Intelligence Analyst** at Etech Global Services, 
 As a **Software Developer** at R3 Systems, I implemented secure payment gateways using Java and Spring Boot, while building APIs and dynamic interfaces with React.js and Redux.  
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunmaim16&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmaim16&layout=compact&theme=radical)
+
+---
 
 📬 **Contact Me:**  
 - **Email:** [mrunmaimagar@gmail.com](mailto:mrunmaimagar@gmail.com)  
