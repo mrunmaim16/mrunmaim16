@@ -19,6 +19,7 @@ I am a recent graduate with a Master of Science in Computer Science from the Uni
 
 🛠️ **Professional Experience and Projects:**  
 Currently working as a **Data Engineer** at ARcare, I design and maintain the pipelines, databases, and infrastructures that make data reliable and accessible. Skilled in Microsoft Fabric, Power BI, Azure Data Lake, Azure Data Factory, T-SQL, PySpark, and Healthcare Analytics, I focus on transforming complex data into actionable insights that improve healthcare outcomes. 
+
 As a **Data Analyst** at the University of Texas at Arlington, I analyzed support tickets using tools like Power BI, Jira, and Oracle Analytics Cloud to enhance services for the UTA community. I lead efforts to create dashboards and optimize workflows, driving significant improvements in operational efficiency and response times.  
 Previously, I was a **Business Intelligence Analyst** at Etech Global Services, where I developed real-time dashboards using Tableau and Python for sentiment analysis, improving customer satisfaction. My work also included building ETL pipelines with tools like Apache Kafka and AWS Redshift, automating data processing tasks.  
 As a **Software Developer** at R3 Systems, I implemented secure payment gateways using Java and Spring Boot, while building APIs and dynamic interfaces with React.js and Redux.  
